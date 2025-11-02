@@ -7,7 +7,7 @@ Areas of focus represent the key roles and responsibilities in your life. These 
 - Health
 - Career
 - Finance
-- Relationships
+- Relationships (see [Dunbar Connections](dunbar-connections.md) for relationship tracking)
 - Personal Growth
 - Learning
 - Home
